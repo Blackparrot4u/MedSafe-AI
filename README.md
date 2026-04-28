@@ -1,4 +1,4 @@
-AI-driven medical safety assistant
+AI driven medical safety assistant
 ## Run Locally
 
 **Prerequisites:**  Node.js
